@@ -1,5 +1,7 @@
-# typora_image_upload_to_cos
+# typora_image_upload_to_cos [English version](https://github.com/javaewb/typora_image_upload_to_cos/blob/main/README_en.md)
 Python Script for Uploading Images from Typora to Tencent Cloud COS
+
+
 # Typora设置与对象存储说明
 
 ## 对象存储
